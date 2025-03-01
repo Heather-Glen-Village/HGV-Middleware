@@ -14,6 +14,11 @@ The Ports you should know
 | Prometheus | :9090 |
 | Grafana | :3000 |
 
+
+## Project Flowchart
+![image](https://github.com/user-attachments/assets/45a03fcc-b4f9-4d8c-a0a4-028e5870132a)
+
+
 ## Passwords
 
 Passwords for some of the containers can be found either on the Discord, REMS006 in the Password Manager or HGV Wiki
